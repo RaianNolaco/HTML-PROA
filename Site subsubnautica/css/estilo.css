@@ -1,0 +1,60 @@
+ body{
+	 
+	 margin: 0;
+	 background-color: #0991f4;
+	 
+ }
+ 
+ section {
+	 
+	 background:white;
+	 border-radius: 10px;
+	 passing: 15px;
+	 width: 500px;
+	 height: 100px;
+	 margin: auto;
+	 box-shadow: 5px 5px 10px rgba(0,0,0,0.350);
+	 
+ }
+ 
+section#cadastro {
+	 
+	 background:white;
+	 border-radius: 10px;
+	 passing: 15px;
+	 width: 500px;
+	 height: 100px;
+	 margin: auto;
+	 box-shadow: 5px 5px 10px rgba(0,0,0,0.350);
+	 
+ }
+ 
+ #menu ul{
+	 
+	 
+	 margin: 0;
+	 background-color: #174878;
+	 list-style:none;
+	 
+ }
+ 
+ #menu ul li{ display:inline; }
+ 
+ #menu ul li a{
+	 
+	 padding: 10px 10px;
+	 display: inline-block;
+	 
+	 background-color: #174878;
+	 color: white;
+	 text-deccoration: none;
+	 border-bottom:3px solid #EDEDED;
+ }
+ 
+ #menu ul li a:hover {
+      
+	 background-color: #ffffff;
+	 color: #D6D6D6;
+	 border-bottom:3px solid #ffffff;
+   
+ }
