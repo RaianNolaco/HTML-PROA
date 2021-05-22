@@ -1,7 +1,7 @@
  body{
 	 
 	 margin: 0;
-	 background-color: #0991f4;
+	 background-image: url(../midia/fotos/subnautica_foto_fundo.jpg);
 	 font-family:Arial;
      color:white;	 
 	 
@@ -15,11 +15,22 @@
 	 width: 500px;
 	 height: 150px;
 	 margin: auto;
-	 box-shadow: 5px 5px 10px rgba(0,0,0,0.350);
+	 
 	 
  }
 	
  
+ .home {
+	 
+	background:#0991f4;
+	border-radius: 0px;
+	padding: 15px;
+	width: 700px;
+	height: auto;
+	margin: auto;
+	
+}
+
  #menu ul{
 	 
 	 
@@ -29,10 +40,12 @@
 	 
  }
  
+ /*Deixa as linhas do li em horizontal*/
  #menu ul li{ display:inline; }
  
  #menu ul li a{
 	 
+	/*Visual do link*/
 	 padding: 10px 10px;
 	 display: inline-block;
 	 
