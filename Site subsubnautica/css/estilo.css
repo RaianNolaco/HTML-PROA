@@ -16,18 +16,7 @@
 	 box-shadow: 5px 5px 10px rgba(0,0,0,0.350);
 	 
  }
- 
-section#cadastro {
-	 
-	 background:white;
-	 border-radius: 10px;
-	 passing: 15px;
-	 width: 500px;
-	 height: 100px;
-	 margin: auto;
-	 box-shadow: 5px 5px 10px rgba(0,0,0,0.350);
-	 
- }
+	
  
  #menu ul{
 	 
@@ -47,7 +36,7 @@ section#cadastro {
 	 
 	 background-color: #174878;
 	 color: white;
-	 text-deccoration: none;
+	 text-decoration: none;
 	 border-bottom:3px solid #EDEDED;
  }
  
