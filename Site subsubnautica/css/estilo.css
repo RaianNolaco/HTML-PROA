@@ -18,18 +18,6 @@
 	 
 	 
  }
-	
- 
- .home {
-	 
-	background:#0991f4;
-	border-radius: 0px;
-	padding: 15px;
-	width: 700px;
-	height: auto;
-	margin: auto;
-	
-}
 
  #menu ul{
 	 
@@ -78,6 +66,18 @@ div.cadastro_contato{
 	position: center;
 	justify-content: center;
 	display: flex;
+	
+}
+
+
+.home {
+	 
+	background:#0991f4;
+	border-radius: 0px;
+	padding: 15px;
+	width: 700px;
+	height: auto;
+	margin: auto;
 	
 }
 
