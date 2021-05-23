@@ -63,6 +63,7 @@
    
  }
 
+ /*Deixa as imagens centralizadas*/
  img.imagem_home{
 
 	display:block;
@@ -70,3 +71,13 @@
 	margin-right:auto; 
 
  }
+
+div.cadastro_contato{
+
+	height: 10em;
+	position: center;
+	justify-content: center;
+	display: flex;
+	
+
+}
