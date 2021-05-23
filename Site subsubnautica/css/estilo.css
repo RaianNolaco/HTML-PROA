@@ -1,7 +1,7 @@
  body{
 	 
 	 margin: 0;
-	 background-image: url(../midia/fotos/subnautica_foto_fundo.jpg);
+	 background-color: #003865	;
 	 font-family:Arial;
      color:white;	 
 	 
@@ -61,4 +61,12 @@
 	 color: #D6D6D6;
 	 border-bottom:3px solid #ffffff;
    
+ }
+
+ img.imagem_home{
+
+	display:block;
+	margin-left:auto;
+	margin-right:auto; 
+
  }
