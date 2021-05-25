@@ -91,3 +91,24 @@ section.sobre{
 	margin: auto; 
 
 }
+
+section.galeria{
+   
+	background:#0991f4;
+	border-radius: 0px;
+	padding: 15px;
+	width: 1000px;
+	height: auto;
+	margin: auto; 
+
+}
+
+img.galeria{
+
+	width: 500;
+}
+
+table.galeria{
+	border: '1';
+	width : '500';
+}
