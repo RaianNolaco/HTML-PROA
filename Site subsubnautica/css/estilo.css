@@ -112,3 +112,15 @@ table.galeria{
 	border: '1';
 	width : '500';
 }
+
+/*galeria*/
+.img:hover{
+	transform : scale(1.025);
+	filter: grayscale(0);
+}
+
+.img{
+    filter: grayscale(10);
+    transition-property: filter;
+    transition-duration:0.5s;
+ }
